@@ -1,6 +1,7 @@
 Full Name: Elgene James D. Reyes\
 Degree Program: BS Computer Science\
 Live Website Link: https://elgenereyes.github.io/reyes-u2l-exercise02/
+
 Steps on how to create GitHub page:
 1. Navigate to Settings tab
 2. Navigate to Pages option
